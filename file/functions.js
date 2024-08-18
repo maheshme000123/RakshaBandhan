@@ -57,6 +57,6 @@ function timeElapse(date){
     $("#hours").html("<span class=\"digit\">" + hours + "</span> Hours");
     $("#minutes").html("<span class=\"digit\">" + minutes + "</span> Minutes");
 
-    var text = "💕MY WORLD JUST GOT LUCKIER SINCE ";
+    var text = "MY WORLD GOT LUCKIER ONCE AGAIN SINCE";
     $("#message-box").html(text);
 }
